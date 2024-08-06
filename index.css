@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.manjula {
+    background-image: url("https://img.freepik.com/premium-photo/indian-food-wooden-table-with-many-dishes-plates-chicken-tikka-masala-biryani-rice_1099171-10434.jpg?w=740");
+    text-align: center;
+    height: 100vh;
+    background-size: cover;
+}
+
+.note {
+    color: green;
+}
+
+.note2 {
+    color: white;
+}
+
+.note3 {
+    color: blue;
+}

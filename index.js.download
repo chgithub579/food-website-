@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head><link rel="stylesheet" href="index.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+<meta name="robots" content="none,noarchive"/>
+</head>
+
+<body>
+    <div class="manjula">
+        <h1 class="note">Food</h1>
+        <p class="note2">Eat whatever you want</p>
+        <button class="note3">Get Started</button>
+    </div>
+<script src="index.js"></script>
+</body>
+
+</html>
